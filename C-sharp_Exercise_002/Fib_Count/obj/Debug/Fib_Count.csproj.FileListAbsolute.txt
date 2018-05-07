@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\bin\Debug\Fib_Count.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\bin\Debug\Fib_Count.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\bin\Debug\Fib_Count.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\obj\Debug\Fib_Count.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\obj\Debug\Fib_Count.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\obj\Debug\Fib_Count.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\obj\Debug\Fib_Count.pdb
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\bin\Debug\Fib_Count.exe.config
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\bin\Debug\Fib_Count.exe
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\bin\Debug\Fib_Count.pdb
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\obj\Debug\Fib_Count.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\obj\Debug\Fib_Count.exe
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Fib_Count\obj\Debug\Fib_Count.pdb

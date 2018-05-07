@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\TicketFare.exe.config
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\TicketFare.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\TicketFare.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare_withDB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare.Form1.resources
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare.Properties.Resources.resources
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare_withDB.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare_withDB.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare_withDB.csproj.CopyComplete
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_002\TicketFare_withDB\obj\Debug\TicketFare.pdb

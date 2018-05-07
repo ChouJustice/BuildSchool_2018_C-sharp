@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\obj\Debug\HomeWork009.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\obj\Debug\HomeWork009.Form1.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\obj\Debug\HomeWork009.Properties.Resources.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\obj\Debug\HomeWork009.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\obj\Debug\HomeWork009.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\bin\Debug\HomeWork009.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\bin\Debug\HomeWork009.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\bin\Debug\HomeWork009.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\obj\Debug\HomeWork009.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork\HomeWork009\obj\Debug\HomeWork009.pdb

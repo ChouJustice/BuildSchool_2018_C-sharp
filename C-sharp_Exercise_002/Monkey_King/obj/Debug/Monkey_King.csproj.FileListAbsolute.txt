@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\bin\Debug\Monkey_King.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\bin\Debug\Monkey_King.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\bin\Debug\Monkey_King.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\obj\Debug\Monkey_King.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\obj\Debug\Monkey_King.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\obj\Debug\Monkey_King.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\obj\Debug\Monkey_King.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\bin\Debug\Monkey_King.exe.config
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\bin\Debug\Monkey_King.exe
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\bin\Debug\Monkey_King.pdb
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\obj\Debug\Monkey_King.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\obj\Debug\Monkey_King.exe
+C:\Users\USER\Desktop\Build_School\C_Sharp\Bill_HomeWork\Bill_HomeWork_2\Monkey_King\obj\Debug\Monkey_King.pdb

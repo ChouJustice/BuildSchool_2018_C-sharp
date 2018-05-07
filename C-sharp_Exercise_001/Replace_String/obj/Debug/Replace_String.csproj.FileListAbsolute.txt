@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Replace_String\bin\Debug\HomeWork008.exe.config
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Replace_String\bin\Debug\HomeWork008.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Replace_String\bin\Debug\HomeWork008.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Replace_String\obj\Debug\Replace_String.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Replace_String\obj\Debug\HomeWork008.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Replace_String\obj\Debug\HomeWork008.pdb

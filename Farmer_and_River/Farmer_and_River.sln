@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmer_and_River", "Farmer_and_River003\Farmer_and_River.csproj", "{03427B8D-8BA6-4440-A29B-01196815ACDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03427B8D-8BA6-4440-A29B-01196815ACDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03427B8D-8BA6-4440-A29B-01196815ACDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03427B8D-8BA6-4440-A29B-01196815ACDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03427B8D-8BA6-4440-A29B-01196815ACDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A8AAF66-4F79-4D8C-AEBF-DC53E446522E}
+	EndGlobalSection
+EndGlobal

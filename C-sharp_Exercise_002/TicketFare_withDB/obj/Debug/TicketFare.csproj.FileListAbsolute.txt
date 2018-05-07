@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.Properties.Resources.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\TicketFare.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\TicketFare.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\TicketFare.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.csproj.CopyComplete
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.StartSation.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\TicketFare\obj\Debug\TicketFare.csprojResolveAssemblyReference.cache

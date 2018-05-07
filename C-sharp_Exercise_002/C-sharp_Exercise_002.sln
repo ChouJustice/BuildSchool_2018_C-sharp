@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fib_Count", "Fib_Count\Fib_Count.csproj", "{A0D26722-D76C-4BA1-9C1F-83E56921B832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monkey_King", "Monkey_King\Monkey_King.csproj", "{4BE0DB47-C7D4-41A8-B178-22936B3D0C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Performance_withDB", "Performance_withDB\Performance_withDB.csproj", "{233F25C8-B66D-4F35-BE90-CCF371190B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketFare_withDB", "TicketFare_withDB\TicketFare_withDB.csproj", "{69A75357-949A-4DCE-AFD9-E8F7EF6FC323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luwei_Store", "Luwei_Store\Luwei_Store.csproj", "{5DCC431C-BEA6-4909-843F-A7B8FA352A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking_Compute", "Parking_Compute\Parking_Compute.csproj", "{88165298-9FEB-4CA1-9862-FEE47CC8C1F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D26722-D76C-4BA1-9C1F-83E56921B832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D26722-D76C-4BA1-9C1F-83E56921B832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D26722-D76C-4BA1-9C1F-83E56921B832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D26722-D76C-4BA1-9C1F-83E56921B832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE0DB47-C7D4-41A8-B178-22936B3D0C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE0DB47-C7D4-41A8-B178-22936B3D0C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE0DB47-C7D4-41A8-B178-22936B3D0C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE0DB47-C7D4-41A8-B178-22936B3D0C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233F25C8-B66D-4F35-BE90-CCF371190B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233F25C8-B66D-4F35-BE90-CCF371190B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233F25C8-B66D-4F35-BE90-CCF371190B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233F25C8-B66D-4F35-BE90-CCF371190B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A75357-949A-4DCE-AFD9-E8F7EF6FC323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A75357-949A-4DCE-AFD9-E8F7EF6FC323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A75357-949A-4DCE-AFD9-E8F7EF6FC323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A75357-949A-4DCE-AFD9-E8F7EF6FC323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCC431C-BEA6-4909-843F-A7B8FA352A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCC431C-BEA6-4909-843F-A7B8FA352A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCC431C-BEA6-4909-843F-A7B8FA352A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCC431C-BEA6-4909-843F-A7B8FA352A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88165298-9FEB-4CA1-9862-FEE47CC8C1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88165298-9FEB-4CA1-9862-FEE47CC8C1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88165298-9FEB-4CA1-9862-FEE47CC8C1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88165298-9FEB-4CA1-9862-FEE47CC8C1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7029007-5A5C-4B81-8471-924AE255DA9E}
+	EndGlobalSection
+EndGlobal

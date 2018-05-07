@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Pyramid\bin\Debug\Loop_Pyramid.exe.config
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Pyramid\bin\Debug\Loop_Pyramid.exe
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Pyramid\bin\Debug\Loop_Pyramid.pdb
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Pyramid\obj\Debug\Loop_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Pyramid\obj\Debug\Loop_Pyramid.exe
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Pyramid\obj\Debug\Loop_Pyramid.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Pyramid\bin\Debug\Loop_Pyramid.exe.config
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Pyramid\bin\Debug\Loop_Pyramid.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Pyramid\bin\Debug\Loop_Pyramid.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Pyramid\obj\Debug\Loop_Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Pyramid\obj\Debug\Loop_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Pyramid\obj\Debug\Loop_Pyramid.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Pyramid\obj\Debug\Loop_Pyramid.pdb

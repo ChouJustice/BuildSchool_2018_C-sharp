@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\Performance.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\Performance.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\Performance.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.Form1.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.Properties.Resources.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.csproj.CopyComplete
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Bill_HomeWork_2\Performance\obj\Debug\Performance.pdb

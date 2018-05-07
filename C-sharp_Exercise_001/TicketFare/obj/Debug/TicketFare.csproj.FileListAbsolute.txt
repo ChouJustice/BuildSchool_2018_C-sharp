@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\bin\Debug\HomeWork010.exe.config
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\bin\Debug\HomeWork010.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\bin\Debug\HomeWork010.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\obj\Debug\TicketFare.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\obj\Debug\HomeWork010.Form1.resources
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\obj\Debug\HomeWork010.Properties.Resources.resources
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\obj\Debug\TicketFare.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\obj\Debug\TicketFare.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\obj\Debug\HomeWork010.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\TicketFare\obj\Debug\HomeWork010.pdb

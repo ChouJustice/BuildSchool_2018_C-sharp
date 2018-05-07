@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Inverted\obj\Debug\Loop_Inverted.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Inverted\bin\Debug\Loop_Inverted.exe.config
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Inverted\bin\Debug\Loop_Inverted.exe
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Inverted\bin\Debug\Loop_Inverted.pdb
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Inverted\obj\Debug\Loop_Inverted.exe
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Loop_Inverted\obj\Debug\Loop_Inverted.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Inverted\bin\Debug\Loop_Inverted.exe.config
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Inverted\bin\Debug\Loop_Inverted.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Inverted\bin\Debug\Loop_Inverted.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Inverted\obj\Debug\Loop_Inverted.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Inverted\obj\Debug\Loop_Inverted.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Inverted\obj\Debug\Loop_Inverted.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Loop_Inverted\obj\Debug\Loop_Inverted.pdb

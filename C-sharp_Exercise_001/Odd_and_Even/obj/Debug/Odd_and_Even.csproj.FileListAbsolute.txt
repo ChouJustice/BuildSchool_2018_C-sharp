@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Odd_and_Even\bin\Debug\Odd_and_Even.exe.config
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Odd_and_Even\bin\Debug\Odd_and_Even.exe
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Odd_and_Even\bin\Debug\Odd_and_Even.pdb
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Odd_and_Even\obj\Debug\Odd_and_Even.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Odd_and_Even\obj\Debug\Odd_and_Even.exe
+C:\Users\USER\Desktop\TEST\C-sharp_Exercise_001\Odd_and_Even\obj\Debug\Odd_and_Even.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Odd_and_Even\bin\Debug\Odd_and_Even.exe.config
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Odd_and_Even\bin\Debug\Odd_and_Even.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Odd_and_Even\bin\Debug\Odd_and_Even.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Odd_and_Even\obj\Debug\Odd_and_Even.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Odd_and_Even\obj\Debug\Odd_and_Even.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Odd_and_Even\obj\Debug\Odd_and_Even.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\Odd_and_Even\obj\Debug\Odd_and_Even.pdb

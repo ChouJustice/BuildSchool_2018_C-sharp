@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\bin\Debug\HomeWork009.exe.config
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\bin\Debug\HomeWork009.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\bin\Debug\HomeWork009.pdb
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\obj\Debug\SalesPerformance.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\obj\Debug\HomeWork009.Form1.resources
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\obj\Debug\HomeWork009.Properties.Resources.resources
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\obj\Debug\SalesPerformance.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\obj\Debug\SalesPerformance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\obj\Debug\HomeWork009.exe
+C:\Users\USER\Desktop\GitHub\C-sharp_Exercise_001\SalesPerformance\obj\Debug\HomeWork009.pdb
