@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\bin\Debug\Cellphone_TelRate.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\bin\Debug\Cellphone_TelRate.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\bin\Debug\Cellphone_TelRate.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\obj\Debug\Cellphone_TelRate.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\obj\Debug\Cellphone_TelRate.Form1.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\obj\Debug\Cellphone_TelRate.Properties.Resources.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\obj\Debug\Cellphone_TelRate.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\obj\Debug\Cellphone_TelRate.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\obj\Debug\Cellphone_TelRate.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Cellphone_TelRate\obj\Debug\Cellphone_TelRate.pdb

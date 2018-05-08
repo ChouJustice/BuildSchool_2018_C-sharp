@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Return_Text\bin\Debug\Return_Text.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Return_Text\bin\Debug\Return_Text.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Return_Text\bin\Debug\Return_Text.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Return_Text\obj\Debug\Return_Text.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Return_Text\obj\Debug\Return_Text.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Return_Text\obj\Debug\Return_Text.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Return_Text\obj\Debug\Return_Text.pdb

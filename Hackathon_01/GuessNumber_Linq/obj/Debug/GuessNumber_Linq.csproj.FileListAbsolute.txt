@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\bin\Debug\GuessNumber_Linq.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\bin\Debug\GuessNumber_Linq.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\bin\Debug\GuessNumber_Linq.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\obj\Debug\GuessNumber_Linq.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\obj\Debug\GuessNumber_Linq.Form1.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\obj\Debug\GuessNumber_Linq.Properties.Resources.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\obj\Debug\GuessNumber_Linq.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\obj\Debug\GuessNumber_Linq.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\obj\Debug\GuessNumber_Linq.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\GuessNumber_Linq\obj\Debug\GuessNumber_Linq.pdb

@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\bin\Debug\Convert_Temperature.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\bin\Debug\Convert_Temperature.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\bin\Debug\Convert_Temperature.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\obj\Debug\Convert_Temperature.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\obj\Debug\Convert_Temperature.Form1.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\obj\Debug\Convert_Temperature.Properties.Resources.resources
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\obj\Debug\Convert_Temperature.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\obj\Debug\Convert_Temperature.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\obj\Debug\Convert_Temperature.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_Temperature\obj\Debug\Convert_Temperature.pdb

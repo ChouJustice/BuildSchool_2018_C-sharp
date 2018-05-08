@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Number_Define\bin\Debug\Number_Define.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Number_Define\bin\Debug\Number_Define.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Number_Define\bin\Debug\Number_Define.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Number_Define\obj\Debug\Number_Define.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Number_Define\obj\Debug\Number_Define.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Number_Define\obj\Debug\Number_Define.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Number_Define\obj\Debug\Number_Define.pdb

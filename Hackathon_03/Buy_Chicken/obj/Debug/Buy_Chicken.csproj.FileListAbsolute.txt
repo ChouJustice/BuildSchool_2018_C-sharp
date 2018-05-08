@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Buy_Chicken\bin\Debug\Buy_Chicken.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Buy_Chicken\bin\Debug\Buy_Chicken.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Buy_Chicken\bin\Debug\Buy_Chicken.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Buy_Chicken\obj\Debug\Buy_Chicken.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Buy_Chicken\obj\Debug\Buy_Chicken.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Buy_Chicken\obj\Debug\Buy_Chicken.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Buy_Chicken\obj\Debug\Buy_Chicken.pdb

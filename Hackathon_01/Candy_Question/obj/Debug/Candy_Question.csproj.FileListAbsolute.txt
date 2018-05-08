@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Candy_Question\bin\Debug\Candy_Question.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Candy_Question\bin\Debug\Candy_Question.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Candy_Question\bin\Debug\Candy_Question.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Candy_Question\obj\Debug\Candy_Question.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Candy_Question\obj\Debug\Candy_Question.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Candy_Question\obj\Debug\Candy_Question.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Candy_Question\obj\Debug\Candy_Question.pdb
+C:\Users\USER\Desktop\Today_GitHub\Hackathon_1\Candy_Question\bin\Debug\Candy_Question.exe.config
+C:\Users\USER\Desktop\Today_GitHub\Hackathon_1\Candy_Question\bin\Debug\Candy_Question.exe
+C:\Users\USER\Desktop\Today_GitHub\Hackathon_1\Candy_Question\bin\Debug\Candy_Question.pdb
+C:\Users\USER\Desktop\Today_GitHub\Hackathon_1\Candy_Question\obj\Debug\Candy_Question.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Today_GitHub\Hackathon_1\Candy_Question\obj\Debug\Candy_Question.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Today_GitHub\Hackathon_1\Candy_Question\obj\Debug\Candy_Question.exe
+C:\Users\USER\Desktop\Today_GitHub\Hackathon_1\Candy_Question\obj\Debug\Candy_Question.pdb

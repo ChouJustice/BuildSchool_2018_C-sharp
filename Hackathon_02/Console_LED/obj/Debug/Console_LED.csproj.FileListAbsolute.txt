@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Console_LED\bin\Debug\Console_LED.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Console_LED\bin\Debug\Console_LED.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Console_LED\bin\Debug\Console_LED.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Console_LED\obj\Debug\Console_LED.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Console_LED\obj\Debug\Console_LED.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Console_LED\obj\Debug\Console_LED.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Console_LED\obj\Debug\Console_LED.csprojResolveAssemblyReference.cache

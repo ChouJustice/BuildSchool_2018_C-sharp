@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\Text_Read_Convert.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\Text_Read_Convert.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\Text_Read_Convert.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\obj\Debug\Text_Read_Convert.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\obj\Debug\Text_Read_Convert.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\obj\Debug\Text_Read_Convert.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\obj\Debug\Text_Read_Convert.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\Database.mdf
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\Database_log.ldf
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_2\Text_Read_Convert\obj\Debug\Text_Read_Convert.csproj.CopyComplete

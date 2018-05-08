@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_String\bin\Debug\Convert_String.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_String\bin\Debug\Convert_String.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_String\bin\Debug\Convert_String.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_String\obj\Debug\Convert_String.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_String\obj\Debug\Convert_String.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_String\obj\Debug\Convert_String.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon\Convert_String\obj\Debug\Convert_String.pdb

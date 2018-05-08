@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Prime_Number\bin\Debug\Prime_Number.exe.config
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Prime_Number\bin\Debug\Prime_Number.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Prime_Number\bin\Debug\Prime_Number.pdb
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Prime_Number\obj\Debug\Prime_Number.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Prime_Number\obj\Debug\Prime_Number.exe
+C:\Users\USER\Desktop\Bill_HomeWork\Hackathon_3\Prime_Number\obj\Debug\Prime_Number.pdb
