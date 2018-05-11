@@ -4,6 +4,6 @@ this is C-sharp
   
 its about
   
-    .Net Framwork
-    logical exercise
-    linq
+    .Net Framwork  
+    logical exercise  
+    linq  
