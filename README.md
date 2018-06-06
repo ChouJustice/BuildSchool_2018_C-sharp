@@ -2,8 +2,10 @@
 
 this is C-sharp  
   
-its about
+ about using .Net Framwork
   
-    .Net Framwork  
-    logical exercise  
-    linq  
+    物件導向 - 繼承、封裝、多型
+    條件陳述式 - If Else、Switch case
+    迴圈 - For、While、DoWhile、Foreach
+    可列舉陣列 - List、Dictionary
+    Linq用法
